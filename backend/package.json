@@ -19,7 +19,6 @@
     "ejs": "^4.0.1",
     "express": "^5.2.1",
     "express-session": "^1.18.2",
-    "git": "^0.1.5",
     "jsonwebtoken": "^9.0.3",
     "mongod": "^2.0.0",
     "mongoose": "^9.1.4",
